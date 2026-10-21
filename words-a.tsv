@@ -1,0 +1,993 @@
+# word | pos | bengali-gloss (UTF-8 source; escaped at build time)
+accept|verb|গ্রহণ করা
+achieve|verb|অর্জন করা
+act|verb|অভিনয় করা; কাজ করা
+add|verb|যোগ করা
+admire|verb|প্রশংসা করা
+admit|verb|স্বীকার করা
+advise|verb|পরামর্শ দেওয়া
+agree|verb|রাজি হওয়া
+allow|verb|অনুমতি দেওয়া
+answer|verb|উত্তর দেওয়া
+appear|verb|দেখা দেওয়া
+apply|verb|আবেদন করা
+argue|verb|তর্ক করা
+arrange|verb|ব্যবস্থা করা
+arrive|verb|পৌঁছানো
+ask|verb|জিজ্ঞাসা করা
+attack|verb|আক্রমণ করা
+attend|verb|যোগ দেওয়া
+avoid|verb|এড়ানো
+bake|verb|সেঁকা
+begin|verb|শুরু করা
+believe|verb|বিশ্বাস করা
+belong|verb|অন্তর্গত হওয়া
+borrow|verb|ধার নেওয়া
+break|verb|ভাঙা
+breathe|verb|শ্বাস নেওয়া
+bring|verb|আনা
+build|verb|নির্মাণ করা
+buy|verb|কেনা
+call|verb|ডাকা
+carry|verb|বহন করা
+catch|verb|ধরা
+change|verb|পরিবর্তন করা
+charge|verb|অভিযুক্ত করা; চার্জ করা
+chase|verb|তাড়া করা
+check|verb|পরীক্ষা করা
+choose|verb|বেছে নেওয়া
+clean|verb|পরিষ্কার করা
+climb|verb|চড়া
+close|verb|বন্ধ করা
+collect|verb|সংগ্রহ করা
+come|verb|আসা
+compare|verb|তুলনা করা
+complain|verb|অভিযোগ করা
+complete|verb|সম্পূর্ণ করা
+connect|verb|সংযোগ করা
+consider|verb|বিবেচনা করা
+continue|verb|চালিয়ে যাওয়া
+cook|verb|রান্না করা
+copy|verb|অনুলিপি করা
+count|verb|গণনা করা
+create|verb|তৈরি করা
+cross|verb|পার হওয়া
+cry|verb|কাঁদা
+cut|verb|কাটা
+dance|verb|নাচা
+decide|verb|সিদ্ধান্ত নেওয়া
+delay|verb|বিলম্ব করা
+deliver|verb|সরবরাহ করা
+deny|verb|অস্বীকার করা
+describe|verb|বর্ণনা করা
+design|verb|নকশা করা
+destroy|verb|ধ্বংস করা
+develop|verb|বিকাশ করা
+die|verb|মারা যাওয়া
+discover|verb|আবিষ্কার করা
+discuss|verb|আলোচনা করা
+divide|verb|ভাগ করা
+do|verb|করা
+doubt|verb|সন্দেহ করা
+draw|verb|আঁকা
+dream|verb|স্বপ্ন দেখা
+dress|verb|পোশাক পরা
+drink|verb|পান করা
+drive|verb|চালানো
+drop|verb|ফেলা
+dry|verb|শুকানো
+earn|verb|উপার্জন করা
+eat|verb|খাওয়া
+educate|verb|শিক্ষা দেওয়া
+elect|verb|নির্বাচন করা
+empty|verb|খালি করা
+encourage|verb|উৎসাহ দেওয়া
+end|verb|শেষ করা
+enjoy|verb|উপভোগ করা
+enter|verb|প্রবেশ করা
+escape|verb|পালানো
+establish|verb|প্রতিষ্ঠা করা
+examine|verb|পরীক্ষা করা
+exchange|verb|বিনিময় করা
+exist|verb|বিদ্যমান থাকা
+expect|verb|প্রত্যাশা করা
+explain|verb|ব্যাখ্যা করা
+explode|verb|বিস্ফোরিত হওয়া
+express|verb|প্রকাশ করা
+fail|verb|ব্যর্থ হওয়া
+fall|verb|পড়া
+feed|verb|খাওয়ানো
+feel|verb|অনুভব করা
+fight|verb|লড়াই করা
+fill|verb|ভরা
+find|verb|খুঁজে পাওয়া
+finish|verb|শেষ করা
+fix|verb|মেরামত করা
+fly|verb|উড়া
+follow|verb|অনুসরণ করা
+forgive|verb|ক্ষমা করা
+forget|verb|ভুলে যাওয়া
+freeze|verb|জমা
+gather|verb|জড়ো করা
+get|verb|পাওয়া
+give|verb|দেওয়া
+go|verb|যাওয়া
+grab|verb|আঁকড়ে ধরা
+grow|verb|বাড়া
+guard|verb|পাহারা দেওয়া
+guess|verb|অনুমান করা
+guide|verb|পথ দেখানো
+hang|verb|ঝোলানো
+happen|verb|ঘটা
+hate|verb|ঘৃণা করা
+have|verb|থাকা
+hear|verb|শোনা
+heat|verb|গরম করা
+help|verb|সাহায্য করা
+hide|verb|লুকানো
+hit|verb|আঘাত করা
+hold|verb|ধরে রাখা
+hope|verb|আশা করা
+hug|verb|জড়িয়ে ধরা
+hurry|verb|তাড়াহুড়ো করা
+hurt|verb|আহত করা
+imagine|verb|কল্পনা করা
+improve|verb|উন্নত করা
+include|verb|অন্তর্ভুক্ত করা
+increase|verb|বাড়ানো
+influence|verb|প্রভাবিত করা
+inform|verb|জানানো
+invite|verb|আমন্ত্রণ জানানো
+join|verb|যোগদান করা
+jump|verb|লাফ দেওয়া
+keep|verb|রাখা
+kick|verb|লাথি মারা
+kill|verb|হত্যা করা
+kiss|verb|চুম্বন করা
+knock|verb|টোকা দেওয়া
+know|verb|জানা
+laugh|verb|হাসা
+launch|verb|উদ্বোধন করা
+lead|verb|নেতৃত্ব দেওয়া
+learn|verb|শেখা
+leave|verb|ত্যাগ করা
+lend|verb|ধার দেওয়া
+let|verb|দেওয়া (অনুমতি)
+lie|verb|মিথ্যা বলা; শুয়ে থাকা
+lift|verb|তোলা
+light|verb|জ্বালানো
+like|verb|পছন্দ করা
+listen|verb|শোনা (মনোযোগ)
+live|verb|বেঁচে থাকা; বাস করা
+lock|verb|তালা দেওয়া
+look|verb|দেখা
+lose|verb|হারানো
+love|verb|ভালোবাসা
+maintain|verb|বজায় রাখা
+make|verb|তৈরি করা
+manage|verb|পরিচালনা করা
+mark|verb|চিহ্ন দেওয়া
+marry|verb|বিয়ে করা
+match|verb|মেলানো
+measure|verb|পরিমাপ করা
+meet|verb|সাক্ষাৎ করা
+melt|verb|গলা
+mention|verb|উল্লেখ করা
+miss|verb|হারিয়ে ফেলা; মিস করা
+mix|verb|মেশানো
+move|verb|চলা; সরানো
+need|verb|প্রয়োজন হওয়া
+notice|verb|লক্ষ্য করা
+obey|verb|মান্য করা
+observe|verb|পর্যবেক্ষণ করা
+obtain|verb|অর্জন করা
+offer|verb|প্রস্তাব দেওয়া
+open|verb|খোলা
+operate|verb|চালানো
+oppose|verb|বিরোধিতা করা
+order|verb|আদেশ দেওয়া
+organize|verb|সংগঠিত করা
+owe|verb|ঋণী থাকা
+own|verb|মালিক হওয়া
+paint|verb|রং করা
+participate|verb|অংশ নেওয়া
+pass|verb|পাস করা; অতিক্রম করা
+pay|verb|পরিশোধ করা
+perform|verb|সম্পাদন করা
+pick|verb|তুলে নেওয়া
+place|verb|স্থাপন করা
+plan|verb|পরিকল্পনা করা
+plant|verb|রোপণ করা
+play|verb|খেলা
+please|verb|সন্তুষ্ট করা
+point|verb|নির্দেশ করা
+pour|verb|ঢালা
+practice|verb|অনুশীলন করা
+praise|verb|প্রশংসা করা
+pray|verb|প্রার্থনা করা
+prefer|verb|পছন্দ করা (বেশি)
+prepare|verb|প্রস্তুত করা
+present|verb|উপস্থাপন করা
+press|verb|চাপ দেওয়া
+prevent|verb|প্রতিরোধ করা
+print|verb|মুদ্রণ করা
+promise|verb|প্রতিশ্রুতি দেওয়া
+protect|verb|রক্ষা করা
+prove|verb|প্রমাণ করা
+provide|verb|সরবরাহ করা
+pull|verb|টানা
+punish|verb|শাস্তি দেওয়া
+push|verb|ঠেলা
+put|verb|রাখা
+rain|verb|বৃষ্টি হওয়া
+raise|verb|তোলা; বাড়ানো
+reach|verb|পৌঁছানো
+read|verb|পড়া
+realize|verb|উপলব্ধি করা
+receive|verb|গ্রহণ করা
+recognize|verb|চেনা
+recommend|verb|সুপারিশ করা
+record|verb|রেকর্ড করা
+reduce|verb|কমানো
+reflect|verb|প্রতিফলিত করা
+refuse|verb|প্রত্যাখ্যান করা
+regret|verb|অনুশোচনা করা
+relax|verb|আরাম করা
+release|verb|মুক্তি দেওয়া
+rely|verb|নির্ভর করা
+remember|verb|মনে রাখা
+remind|verb|মনে করিয়ে দেওয়া
+remove|verb|সরানো
+rent|verb|ভাড়া দেওয়া/নেওয়া
+repair|verb|মেরামত করা
+repeat|verb|পুনরাবৃত্তি করা
+replace|verb|প্রতিস্থাপন করা
+reply|verb|উত্তর দেওয়া
+report|verb|প্রতিবেদন করা
+request|verb|অনুরোধ করা
+rescue|verb|উদ্ধার করা
+respect|verb|সম্মান করা
+respond|verb|সাড়া দেওয়া
+rest|verb|বিশ্রাম করা
+return|verb|ফিরে আসা
+reveal|verb|প্রকাশ করা
+ride|verb|চড়া
+ring|verb|বাজানো
+rise|verb|ওঠা
+roar|verb|গর্জন করা
+rob|verb|ডাকাতি করা
+roll|verb|গড়ানো
+rub|verb|ঘষা
+run|verb|দৌড়ানো
+rush|verb|ছুটে যাওয়া
+save|verb|সংরক্ষণ করা
+say|verb|বলা
+scare|verb|ভয় পাওয়ানো
+search|verb|খোঁজা
+see|verb|দেখা
+seem|verb|মনে হওয়া
+select|verb|নির্বাচন করা
+sell|verb|বিক্রি করা
+send|verb|পাঠানো
+serve|verb|সেবা করা
+set|verb|স্থাপন করা
+settle|verb|মীমাংসা করা
+shake|verb|ঝাঁকানো
+share|verb|ভাগ করা
+shine|verb|জ্বলজ্বল করা
+shoot|verb|গুলি করা
+shout|verb|চিৎকার করা
+show|verb|দেখানো
+shut|verb|বন্ধ করা
+sing|verb|গান গাওয়া
+sink|verb|ডুবে যাওয়া
+sit|verb|বসা
+sleep|verb|ঘুমানো
+slide|verb|পিছলে যাওয়া
+slip|verb|পা ফসকানো
+smell|verb|গন্ধ পাওয়া
+smile|verb|হাসি দেওয়া
+smoke|verb|ধোঁয়া ছাড়া
+solve|verb|সমাধান করা
+sort|verb|সাজানো
+speak|verb|কথা বলা
+spend|verb|ব্যয় করা
+spill|verb|ছড়িয়ে পড়া
+spin|verb|ঘোরানো
+split|verb|বিভক্ত করা
+spoil|verb|নষ্ট করা
+spread|verb|ছড়িয়ে দেওয়া
+stand|verb|দাঁড়ানো
+stare|verb|তাকিয়ে থাকা
+start|verb|শুরু করা
+stay|verb|থাকা
+steal|verb|চুরি করা
+stick|verb|আটকানো
+stir|verb|নাড়া
+stop|verb|থামা
+store|verb|মজুত করা
+stretch|verb|টানা (প্রসারিত)
+strike|verb|আঘাত করা
+study|verb|অধ্যয়ন করা
+succeed|verb|সফল হওয়া
+suffer|verb|ভোগা
+suggest|verb|প্রস্তাব করা
+support|verb|সমর্থন করা
+suppose|verb|মনে করা
+surprise|verb|অবাক করা
+survive|verb|বেঁচে থাকা
+swallow|verb|গিলে ফেলা
+swear|verb|শপথ করা
+sweep|verb|ঝাড়ু দেওয়া
+swim|verb|সাঁতার কাটা
+swing|verb|দোলা
+switch|verb|বদলানো
+take|verb|নেওয়া
+talk|verb|কথা বলা
+taste|verb|স্বাদ নেওয়া
+teach|verb|শেখানো
+tear|verb|ছেঁড়া
+tell|verb|বলা
+thank|verb|ধন্যবাদ জানানো
+think|verb|চিন্তা করা
+threaten|verb|হুমকি দেওয়া
+throw|verb|ছোঁড়া
+tie|verb|বাঁধা
+touch|verb|স্পর্শ করা
+train|verb|প্রশিক্ষণ দেওয়া
+travel|verb|ভ্রমণ করা
+treat|verb|চিকিৎসা করা; আচরণ করা
+tremble|verb|কাঁপা
+trust|verb|বিশ্বাস করা
+try|verb|চেষ্টা করা
+turn|verb|ঘোরা
+type|verb|টাইপ করা
+understand|verb|বোঝা
+unite|verb|একত্র হওয়া
+unlock|verb|তালা খোলা
+unpack|verb|খোলা (মোড়ক)
+update|verb|হালনাগাদ করা
+use|verb|ব্যবহার করা
+value|verb|মূল্যায়ন করা
+visit|verb|পরিদর্শন করা
+vote|verb|ভোট দেওয়া
+wait|verb|অপেক্ষা করা
+wake|verb|জাগা
+walk|verb|হাঁটা
+want|verb|চাওয়া
+warn|verb|সতর্ক করা
+wash|verb|ধোয়া
+waste|verb|অপচয় করা
+watch|verb|দেখা (টিভি/খেলা)
+water|verb|পানি দেওয়া
+wave|verb|হাত নাড়া
+wear|verb|পরিধান করা
+weep|verb|কাঁদা
+weigh|verb|ওজন করা
+welcome|verb|স্বাগত জানানো
+whisper|verb|ফিসফিস করা
+win|verb|জয়ী হওয়া
+wipe|verb|মোছা
+wish|verb|ইচ্ছা করা
+wonder|verb|আশ্চর্য হওয়া
+work|verb|কাজ করা
+worry|verb|চিন্তা করা
+write|verb|লেখা
+yell|verb|চেঁচানো
+account|noun|হিসাব; অ্যাকাউন্ট
+advice|noun|পরামর্শ
+air|noun|বাতাস
+airport|noun|বিমানবন্দর
+alarm|noun|অ্যালার্ম
+album|noun|অ্যালবাম
+animal|noun|প্রাণী
+answer|noun|উত্তর
+ant|noun|পিঁপড়া
+apple|noun|আপেল
+arm|noun|বাহু
+arrow|noun|তীর
+article|noun|প্রবন্ধ
+artist|noun|শিল্পী
+aunt|noun|খালা; ফুফু; চাচি
+bag|noun|ব্যাগ
+balance|noun|ভারসাম্য
+ball|noun|বল
+balloon|noun|বেলুন
+banana|noun|কলা
+bank|noun|ব্যাংক
+basket|noun|ঝুড়ি
+bath|noun|গোসল
+battle|noun|যুদ্ধ
+beach|noun|সমুদ্রসৈকত
+beard|noun|দাড়ি
+bed|noun|বিছানা
+bee|noun|মৌমাছি
+bell|noun|ঘণ্টা
+belt|noun|বেল্ট
+bench|noun|বেঞ্চ
+berry|noun|বেরি
+bicycle|noun|সাইকেল
+bird|noun|পাখি
+birth|noun|জন্ম
+blanket|noun|কম্বল
+blood|noun|রক্ত
+board|noun|বোর্ড; তক্তা
+boat|noun|নৌকা
+body|noun|শরীর
+book|noun|বই
+bottle|noun|বোতল
+box|noun|বাক্স
+boy|noun|ছেলে
+brain|noun|মস্তিষ্ক
+branch|noun|শাখা
+bread|noun|রুটি
+bridge|noun|সেতু
+brother|noun|ভাই
+brush|noun|ব্রাশ
+building|noun|ভবন
+bulb|noun|বাল্ব
+bus|noun|বাস
+business|noun|ব্যবসা
+butter|noun|মাখন
+button|noun|বোতাম
+cabbage|noun|বাঁধাকপি
+cake|noun|কেক
+calendar|noun|ক্যালেন্ডার
+camel|noun|উট
+camera|noun|ক্যামেরা
+camp|noun|শিবির
+candle|noun|মোমবাতি
+cap|noun|টুপি
+car|noun|গাড়ি
+card|noun|কার্ড
+career|noun|পেশা
+carpet|noun|কার্পেট
+carrot|noun|গাজর
+castle|noun|দুর্গ
+cat|noun|বিড়াল
+celebration|noun|উদযাপন
+century|noun|শতাব্দী
+chair|noun|চেয়ার
+change|noun|পরিবর্তন
+channel|noun|চ্যানেল
+chapter|noun|অধ্যায়
+charge|noun|চার্জ; অভিযোগ
+chart|noun|চার্ট
+cheek|noun|গাল
+cheese|noun|পনির
+chicken|noun|মুরগি
+child|noun|শিশু
+chili|noun|মরিচ
+choice|noun|পছন্দ
+church|noun|গির্জা
+cinema|noun|সিনেমা হল
+circle|noun|বৃত্ত
+city|noun|শহর
+class|noun|শ্রেণি
+climate|noun|জলবায়ু
+clock|noun|ঘড়ি
+cloud|noun|মেঘ
+coach|noun|প্রশিক্ষক
+coal|noun|কয়লা
+coat|noun|কোট
+coffee|noun|কফি
+coin|noun|মুদ্রা
+color|noun|রং
+comb|noun|চিরুনি
+comfort|noun|আরাম
+command|noun|আদেশ
+comment|noun|মন্তব্য
+company|noun|কোম্পানি
+compass|noun|কম্পাস
+competition|noun|প্রতিযোগিতা
+computer|noun|কম্পিউটার
+concert|noun|কনসার্ট
+condition|noun|অবস্থা
+confidence|noun|আত্মবিশ্বাস
+contract|noun|চুক্তি
+cook|noun|রাঁধুনি
+corner|noun|কোণ
+cotton|noun|তুলা
+cough|noun|কাশি
+country|noun|দেশ
+courage|noun|সাহস
+court|noun|আদালত
+cousin|noun|চাচাতো/মামাতো ভাইবোন
+cow|noun|গরু
+crane|noun|সারস; ক্রেন
+crate|noun|পেটি
+cream|noun|ক্রিম
+credit|noun|ক্রেডিট
+cricket|noun|ক্রিকেট
+crime|noun|অপরাধ
+crisis|noun|সংকট
+crowd|noun|ভিড়
+crown|noun|মুকুট
+curtain|noun|পর্দা
+custom|noun|প্রথা
+customer|noun|ক্রেতা
+cycle|noun|চক্র
+dairy|noun|দুগ্ধ খামার
+dance|noun|নাচ
+danger|noun|বিপদ
+darkness|noun|অন্ধকার
+data|noun|তথ্য
+date|noun|তারিখ; খেজুর
+daughter|noun|কন্যা
+day|noun|দিন
+debt|noun|ঋণ
+decision|noun|সিদ্ধান্ত
+deer|noun|হরিণ
+defeat|noun|পরাজয়
+degree|noun|ডিগ্রি
+delay|noun|বিলম্ব
+demand|noun|চাহিদা
+dentist|noun|দাঁতের ডাক্তার
+departure|noun|প্রস্থান
+desert|noun|মরুভূমি
+design|noun|নকশা
+desk|noun|ডেস্ক
+detail|noun|বিস্তারিত
+device|noun|যন্ত্র
+diamond|noun|হীরা
+diary|noun|ডায়েরি
+dictionary|noun|অভিধান
+dinner|noun|রাতের খাবার
+direction|noun|দিক
+director|noun|পরিচালক
+disaster|noun|দুর্যোগ
+discovery|noun|আবিষ্কার
+disease|noun|রোগ
+dish|noun|থালা
+distance|noun|দূরত্ব
+doctor|noun|ডাক্তার
+document|noun|নথি
+dog|noun|কুকুর
+doll|noun|পুতুল
+donkey|noun|গাধা
+door|noun|দরজা
+dream|noun|স্বপ্ন
+dress|noun|পোশাক
+driver|noun|চালক
+drum|noun|ঢোল
+duck|noun|হাঁস
+dust|noun|ধুলা
+eagle|noun|ঈগল
+ear|noun|কান
+earth|noun|পৃথিবী
+earthquake|noun|ভূমিকম্প
+economy|noun|অর্থনীতি
+edge|noun|কিনারা
+editor|noun|সম্পাদক
+education|noun|শিক্ষা
+effect|noun|প্রভাব
+effort|noun|প্রচেষ্টা
+egg|noun|ডিম
+election|noun|নির্বাচন
+electricity|noun|বিদ্যুৎ
+elephant|noun|হাতি
+email|noun|ইমেইল
+embassy|noun|দূতাবাস
+emotion|noun|আবেগ
+employee|noun|কর্মচারী
+enemy|noun|শত্রু
+energy|noun|শক্তি
+engine|noun|ইঞ্জিন
+engineer|noun|প্রকৌশলী
+entrance|noun|প্রবেশদ্বার
+envelope|noun|খাম
+environment|noun|পরিবেশ
+error|noun|ভুল
+essay|noun|রচনা
+evening|noun|সন্ধ্যা
+event|noun|অনুষ্ঠান
+example|noun|উদাহরণ
+exchange|noun|বিনিময়
+excuse|noun|অজুহাত
+exercise|noun|ব্যায়াম
+exhibition|noun|প্রদর্শনী
+expense|noun|খরচ
+experience|noun|অভিজ্ঞতা
+experiment|noun|পরীক্ষা
+expert|noun|বিশেষজ্ঞ
+eye|noun|চোখ
+factory|noun|কারখানা
+fair|noun|মেলা
+faith|noun|বিশ্বাস
+family|noun|পরিবার
+fan|noun|পাখা
+farm|noun|খামার
+farmer|noun|কৃষক
+fashion|noun|ফ্যাশন
+father|noun|বাবা
+fear|noun|ভয়
+feast|noun|ভোজ
+feather|noun|পালক
+festival|noun|উৎসব
+fever|noun|জ্বর
+field|noun|মাঠ
+fight|noun|লড়াই
+file|noun|ফাইল
+film|noun|চলচ্চিত্র
+finger|noun|আঙুল
+fire|noun|আগুন
+fish|noun|মাছ
+fishing|noun|মাছ ধরা
+flag|noun|পতাকা
+flame|noun|শিখা
+flash|noun|ঝলক
+flavor|noun|স্বাদ
+flood|noun|বন্যা
+floor|noun|মেঝে
+flour|noun|আটা
+flower|noun|ফুল
+flu|noun|ফ্লু
+fog|noun|কুয়াশা
+folder|noun|ফোল্ডার
+food|noun|খাবার
+foot|noun|পা
+football|noun|ফুটবল
+forest|noun|বন
+fork|noun|কাঁটাচামচ
+form|noun|ফরম
+fortune|noun|ভাগ্য
+fountain|noun|ঝর্ণা
+freedom|noun|স্বাধীনতা
+friend|noun|বন্ধু
+frog|noun|ব্যাঙ
+fruit|noun|ফল
+fuel|noun|জ্বালানি
+fun|noun|মজা
+function|noun|অনুষ্ঠান; ফাংশন
+future|noun|ভবিষ্যৎ
+gallery|noun|গ্যালারি
+game|noun|খেলা
+garage|noun|গ্যারেজ
+garden|noun|বাগান
+garlic|noun|রসুন
+gas|noun|গ্যাস
+gate|noun|ফটক
+gathering|noun|সমাবেশ
+gem|noun|রত্ন
+general|noun|জেনারেল
+generation|noun|প্রজন্ম
+generosity|noun|উদারতা
+gift|noun|উপহার
+ginger|noun|আদা
+giraffe|noun|জিরাফ
+girl|noun|মেয়ে
+glass|noun|গ্লাস
+glove|noun|দস্তানা
+glue|noun|আঠা
+goal|noun|লক্ষ্য
+goat|noun|ছাগল
+gold|noun|সোনা
+good|noun|ভালো (জিনিস)
+government|noun|সরকার
+grade|noun|গ্রেড
+grain|noun|শস্য
+grandfather|noun|দাদা; নানা
+grandmother|noun|দাদি; নানি
+grape|noun|আঙুর
+grass|noun|ঘাস
+gratefulness|noun|কৃতজ্ঞতা
+grave|noun|কবর
+gravity|noun|মাধ্যাকর্ষণ
+green|noun|সবুজ
+greeting|noun|অভিবাদন
+grief|noun|শোক
+ground|noun|মাটি
+group|noun|দল
+growth|noun|বৃদ্ধি
+guest|noun|অতিথি
+guide|noun|পথপ্রদর্শক
+guitar|noun|গিটার
+gun|noun|বন্দুক
+habit|noun|অভ্যাস
+hair|noun|চুল
+half|noun|অর্ধেক
+hall|noun|হল
+hammer|noun|হাতুড়ি
+hand|noun|হাত
+handbag|noun|হাতব্যাগ
+harbor|noun|বন্দর
+harvest|noun|ফসল তোলা
+hat|noun|টুপি
+health|noun|স্বাস্থ্য
+heart|noun|হৃদয়
+heat|noun|তাপ
+heaven|noun|স্বর্গ
+height|noun|উচ্চতা
+helicopter|noun|হেলিকপ্টার
+helmet|noun|হেলমেট
+help|noun|সাহায্য
+hen|noun|মুরগি (মাদি)
+hero|noun|নায়ক
+hill|noun|পাহাড়
+history|noun|ইতিহাস
+hobby|noun|শখ
+holiday|noun|ছুটি
+home|noun|বাড়ি
+honesty|noun|সততা
+honey|noun|মধু
+honor|noun|সম্মান
+hook|noun|হুক
+hope|noun|আশা
+horn|noun|শিং; হর্ন
+horse|noun|ঘোড়া
+hospital|noun|হাসপাতাল
+host|noun|আয়োজক
+hotel|noun|হোটেল
+hour|noun|ঘণ্টা
+house|noun|বাড়ি
+hug|noun|আলিঙ্গন
+humor|noun|রসবোধ
+hunger|noun|ক্ষুধা
+hunter|noun|শিকারি
+husband|noun|স্বামী
+hut|noun|কুঁড়েঘর
+ice|noun|বরফ
+idea|noun|ধারণা
+identity|noun|পরিচয়
+image|noun|ছবি
+impact|noun|প্রভাব
+importance|noun|গুরুত্ব
+improvement|noun|উন্নতি
+income|noun|আয়
+independence|noun|স্বাধীনতা
+index|noun|সূচক
+industry|noun|শিল্প
+infant|noun|শিশু (নবজাতক)
+infection|noun|সংক্রমণ
+information|noun|তথ্য
+ingredient|noun|উপাদান
+insect|noun|পোকা
+inside|noun|ভেতর
+inspiration|noun|অনুপ্রেরণা
+institute|noun|প্রতিষ্ঠান
+instruction|noun|নির্দেশনা
+instrument|noun|যন্ত্র
+insurance|noun|বীমা
+interest|noun|সুদ; আগ্রহ
+internet|noun|ইন্টারনেট
+interview|noun|সাক্ষাৎকার
+invitation|noun|আমন্ত্রণ
+island|noun|দ্বীপ
+item|noun|জিনিস
+jacket|noun|জ্যাকেট
+jam|noun|জ্যাম
+jar|noun|জার
+jaw|noun|চোয়াল
+jeans|noun|জিন্স
+jeep|noun|জিপ
+jewel|noun|গহনা
+job|noun|চাকরি
+joke|noun|রসিকতা
+journey|noun|যাত্রা
+judge|noun|বিচারক
+juice|noun|রস
+jungle|noun|জঙ্গল
+justice|noun|ন্যায়বিচার
+kangaroo|noun|ক্যাঙ্গারু
+key|noun|চাবি
+keyboard|noun|কিবোর্ড
+kidney|noun|কিডনি
+king|noun|রাজা
+kiss|noun|চুম্বন
+kitchen|noun|রান্নাঘর
+kite|noun|ঘুড়ি
+knee|noun|হাঁটু
+knife|noun|ছুরি
+knowledge|noun|জ্ঞান
+label|noun|লেবেল
+labor|noun|শ্রম
+ladder|noun|মই
+lake|noun|হ্রদ
+lamp|noun|বাতি
+land|noun|জমি
+language|noun|ভাষা
+lantern|noun|লণ্ঠন
+laptop|noun|ল্যাপটপ
+law|noun|আইন
+lawyer|noun|আইনজীবী
+layer|noun|স্তর
+leader|noun|নেতা
+leaf|noun|পাতা
+leak|noun|ছিদ্র
+lecture|noun|বক্তৃতা
+leg|noun|পা
+lemon|noun|লেবু
+lesson|noun|পাঠ
+letter|noun|চিঠি
+level|noun|স্তর
+library|noun|গ্রন্থাগার
+license|noun|লাইসেন্স
+life|noun|জীবন
+light|noun|আলো
+limit|noun|সীমা
+line|noun|রেখা
+lion|noun|সিংহ
+liquid|noun|তরল
+list|noun|তালিকা
+literature|noun|সাহিত্য
+liver|noun|যকৃৎ
+lizard|noun|টিকটিকি
+load|noun|বোঝা
+loan|noun|ঋণ
+location|noun|অবস্থান
+lock|noun|তালা
+logic|noun|যুক্তি
+loss|noun|ক্ষতি
+love|noun|ভালোবাসা
+luggage|noun|লাগেজ
+lunch|noun|দুপুরের খাবার
+lung|noun|ফুসফুস
+machine|noun|যন্ত্র
+magazine|noun|ম্যাগাজিন
+magic|noun|জাদু
+magnet|noun|চুম্বক
+mail|noun|ডাক
+main|noun|প্রধান
+maintenance|noun|রক্ষণাবেক্ষণ
+majority|noun|সংখ্যাগরিষ্ঠ
+makeup|noun|সাজসজ্জা
+mango|noun|আম
+man|noun|মানুষ; পুরুষ
+manner|noun|আচরণ
+map|noun|মানচিত্র
+market|noun|বাজার
+marriage|noun|বিয়ে
+mask|noun|মুখোশ
+master|noun|মালিক; গুরু
+mat|noun|মাদুর
+match|noun|ম্যাচ
+material|noun|উপাদান
+mathematics|noun|গণিত
+matter|noun|ব্যাপার
+mattress|noun|তোষক
+meal|noun|খাবার (বেলা)
+meaning|noun|অর্থ
+meat|noun|মাংস
+mechanic|noun|মেকানিক
+medal|noun|পদক
+media|noun|গণমাধ্যম
+medicine|noun|ওষুধ
+meeting|noun|সভা
+melody|noun|সুর
+member|noun|সদস্য
+memory|noun|স্মৃতি
+menu|noun|মেনু
+merchant|noun|বণিক
+mercy|noun|দয়া
+message|noun|বার্তা
+metal|noun|ধাতু
+method|noun|পদ্ধতি
+microphone|noun|মাইক্রোফোন
+midnight|noun|মধ্যরাত
+milk|noun|দুধ
+mill|noun|কল
+mind|noun|মন
+mineral|noun|খনিজ
+minister|noun|মন্ত্রী
+minute|noun|মিনিট
+mirror|noun|আয়না
+misery|noun|দুর্দশা
+mist|noun|কুয়াশা
+mistake|noun|ভুল
+mixer|noun|মিক্সার
+mobile|noun|মোবাইল
+model|noun|মডেল
+moment|noun|মুহূর্ত
+money|noun|টাকা
+monkey|noun|বানর
+month|noun|মাস
+monument|noun|স্মৃতিস্তম্ভ
+moon|noun|চাঁদ
+morning|noun|সকাল
+mosque|noun|মসজিদ
+mosquito|noun|মশা
+mother|noun|মা
+motion|noun|গতি
+motor|noun|মোটর
+motorcycle|noun|মোটরসাইকেল
+mountain|noun|পর্বত
+mouse|noun|ইঁদুর
+mouth|noun|মুখ
+movie|noun|সিনেমা
+mud|noun|কাদা
+muffler|noun|মাফলার
+mug|noun|মগ
+museum|noun|জাদুঘর
+mushroom|noun|মাশরুম
+music|noun|সংগীত
+mustard|noun|সরিষা
+mutton|noun|খাসির মাংস
+nail|noun|নখ
+name|noun|নাম
+nation|noun|জাতি
+nature|noun|প্রকৃতি
+navy|noun|নৌবাহিনী
+neck|noun|ঘাড়
+needle|noun|সুই
+neighbor|noun|প্রতিবেশী
+nest|noun|বাসা
+net|noun|জাল
+news|noun|সংবাদ
+newspaper|noun|সংবাদপত্র
+night|noun|রাত
+nightingale|noun|বুলবুলি
+nose|noun|নাক
+note|noun|নোট
+notebook|noun|খাতা
+notice|noun|বিজ্ঞপ্তি
+number|noun|সংখ্যা
+nurse|noun|নার্স
+nut|noun|বাদাম
+oasis|noun|মরূদ্যান
+objection|noun|আপত্তি
+ocean|noun|মহাসাগর
+office|noun|অফিস
+officer|noun|কর্মকর্তা
+oil|noun|তেল
+onion|noun|পেঁয়াজ
+opera|noun|অপেরা
+opinion|noun|মতামত
+opportunity|noun|সুযোগ
+orange|noun|কমলা
+order|noun|আদেশ
+organ|noun|অঙ্গ
+organization|noun|সংগঠন
+ornament|noun|অলংকার
+orphan|noun|এতিম
+ostrich|noun|উটপাখি
+oven|noun|চুলা
+owl|noun|পেঁচা
+owner|noun|মালিক
+ox|noun|ষাঁড়
+oxygen|noun|অক্সিজেন
+oyster|noun|ঝিনুক
+pack|noun|প্যাকেট
+package|noun|প্যাকেজ
+page|noun|পৃষ্ঠা
+pain|noun|ব্যথা
+paint|noun|রং
+pair|noun|জোড়া
+palace|noun|প্রাসাদ
+palm|noun|তালগাছ; তালু
+pan|noun|কড়াই
+panda|noun|পান্ডা
+panel|noun|প্যানেল
+paper|noun|কাগজ
+parade|noun|কুচকাওয়াজ
+parcel|noun|পার্সেল
+pardon|noun|ক্ষমা
+parent|noun|বাবা-মা
+park|noun|পার্ক
+parliament|noun|সংসদ
+parrot|noun|তোতাপাখি
+part|noun|অংশ
+partner|noun|অংশীদার
+party|noun|পার্টি
+passenger|noun|যাত্রী
+passion|noun|আবেগ
+passport|noun|পাসপোর্ট
+password|noun|পাসওয়ার্ড
+paste|noun|পেস্ট
+pasture|noun|চারণভূমি
+patch|noun|তালি
+path|noun|পথ
+patience|noun|ধৈর্য
+patient|noun|রোগী
+patrol|noun|টহল
+pattern|noun|নকশা
+pause|noun|বিরতি
+pavement|noun|ফুটপাত
+payment|noun|পরিশোধ
+peace|noun|শান্তি
+peach|noun|পীচ
+peacock|noun|ময়ূর
+peanut|noun|চিনাবাদাম
+pear|noun|নাশপাতি
+pearl|noun|মুক্তা
+pen|noun|কলম
+pencil|noun|পেন্সিল
