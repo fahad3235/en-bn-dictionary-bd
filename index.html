@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EN-BN Pocket Dictionary</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <div>
+        <h1 data-i18n="title">EN-BN Pocket Dictionary</h1>
+        <p class="tag" data-i18n="tagline">Offline English &#8211; Bangla word lookup</p>
+      </div>
+    </div>
+    <div class="topbtns">
+      <button id="dirBtn" class="pill" type="button" aria-label="search direction">EN &#8594; BN</button>
+      <button id="langBtn" class="pill" type="button" aria-label="language">&#2476;&#2434;</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="searchrow">
+    <input id="q" type="search" autocomplete="off" autocapitalize="off" spellcheck="false"
+           data-i18n="searchPh" placeholder="Type an English or Bangla word..."
+           aria-label="search">
+    <button id="randBtn" class="btn" type="button" data-i18n="random">Surprise me</button>
+  </section>
+
+  <section id="wotdCard" class="wotd" role="button" tabindex="0" aria-label="word of the day">
+    <div class="wotd-label" id="wotdLabel">Word of the day</div>
+    <div class="wotd-word" id="wotdWord"></div>
+    <div class="wotd-gloss" id="wotdGloss"></div>
+  </section>
+
+  <section aria-live="polite">
+    <div id="results" class="grid"></div>
+  </section>
+
+  <section class="favsec">
+    <div class="sechead">
+      <h2 data-i18n="favTitle">Favorites</h2>
+      <button id="favClear" class="link" type="button" data-i18n="favClear">Erase all favorites</button>
+    </div>
+    <div id="favList" class="grid"></div>
+  </section>
+
+  <footer class="foot">
+    <p><strong id="statCount">0</strong> <span id="statWord">entries in this pocket dictionary</span></p>
+    <p class="off" data-i18n="offline">100% offline &#8212; no network, no account, no tracking</p>
+    <p class="disc">Glosses are short practice meanings, not a scholarly dictionary. No example sentences are included.</p>
+  </footer>
+</main>
+
+<div id="detail" class="modal" role="dialog" aria-modal="true">
+  <div class="sheet">
+    <button id="dClose" class="x" type="button" aria-label="close">&times;</button>
+    <div id="dWord" class="dword"></div>
+    <div class="dposline"><span id="dPosLabel" class="dlab"></span>: <span id="dPos"></span></div>
+    <div id="dGloss" class="dgloss"></div>
+    <button id="dFav" class="btn favbtn" type="button"></button>
+  </div>
+</div>
+
+<div id="clearModal" class="modal" role="dialog" aria-modal="true">
+  <div class="sheet">
+    <h3 data-i18n="confirmClearTitle">Erase all favorites?</h3>
+    <p id="clearMsg" class="msg"></p>
+    <input id="clearInput" type="text" autocomplete="off" aria-label="confirmation">
+    <div class="row">
+      <button id="clearCancel" class="btn ghost" type="button" data-i18n="cancel">Cancel</button>
+      <button id="clearOk" class="btn danger" type="button" data-i18n="confirm">Erase</button>
+    </div>
+  </div>
+</div>
+
+<script src="js/dict-data-a.js"></script>
+<script src="js/dict-data-b.js"></script>
+<script src="js/logic.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
